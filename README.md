@@ -17,8 +17,6 @@ A raw implementation of the TCP protocol bypassing standard OS transport layer w
 - **Checksum Calculation:** Implements the TCP pseudo-header to manually calculate and verify checksums.
 - **Handshake Execution:** Successfully executes the SYN -> SYN-ACK -> ACK TCP initialization sequence.
 
-### 3. DNS Resolver 
-*(Coming Soon - Code currently being migrated)*
 
 ## Tech Stack
 - **Language:** C++
